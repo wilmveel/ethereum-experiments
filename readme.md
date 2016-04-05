@@ -1,4 +1,4 @@
-Ethereum authentication
-=======================
+Ethereum Experiments
+====================
 
-This project contains a first draft version of a authentication and authorizaion service in blockchain technolgy. The sevice provides a library which helps setting
+All kind of experiments to better understand Ethereum and the web3 lib.
